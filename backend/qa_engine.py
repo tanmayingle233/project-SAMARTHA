@@ -23,7 +23,7 @@ try:
 except Exception as e:
     raise RuntimeError(f"Failed to open DuckDB in backend: {e}")
 
-GEMINI_API_KEY = "AIzaSyDR4MC6SNULLT6udKpyyW1MnXexRCPIV24"
+GEMINI_API_KEY = "ur key"
 if not GEMINI_API_KEY:
     raise RuntimeError("GEMINI_API_KEY not set in environment. Export it before starting the API.")
 
