@@ -1,0 +1,96 @@
+{
+    "index_name": "322fbecb-036b-453b-a3ff-e2e8deddb4e0",
+    "title": "Year-wise Climate Risk Index Rank (India) from 2010 to 2021",
+    "desc": "Year-wise Climate Risk Index Rank (India) from 2010 to 2021",
+    "org_type": "Central",
+    "org": [
+        "Rajya Sabha"
+    ],
+    "sector": [
+        "All"
+    ],
+    "source": "data.gov.in",
+    "catalog_uuid": "4367dc29-493d-4076-9521-a6dec4ecc3a7",
+    "visualizable": "1",
+    "active": "1",
+    "created": 1700244064,
+    "updated": 1700400830,
+    "created_date": "2023-11-17T19:01:04Z",
+    "updated_date": "2023-11-19T19:03:50Z",
+    "external_ws": 0,
+    "external_ws_url": "",
+    "target_bucket": {
+        "index": "api",
+        "type": "4367dc29-493d-4076-9521-a6dec4ecc3a7",
+        "field": "322fbecb-036b-453b-a3ff-e2e8deddb4e0"
+    },
+    "field": [
+        {
+            "id": "year",
+            "name": "Year",
+            "type": "double"
+        },
+        {
+            "id": "year_rank",
+            "name": "Year Rank",
+            "type": "double"
+        }
+    ],
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 12,
+    "count": 12,
+    "limit": "1000",
+    "offset": "0",
+    "records": [
+        {
+            "year": 2010,
+            "year_rank": 31
+        },
+        {
+            "year": 2011,
+            "year_rank": 17
+        },
+        {
+            "year": 2012,
+            "year_rank": 46
+        },
+        {
+            "year": 2013,
+            "year_rank": 3
+        },
+        {
+            "year": 2014,
+            "year_rank": 10
+        },
+        {
+            "year": 2015,
+            "year_rank": 4
+        },
+        {
+            "year": 2016,
+            "year_rank": 6
+        },
+        {
+            "year": 2017,
+            "year_rank": 14
+        },
+        {
+            "year": 2018,
+            "year_rank": 5
+        },
+        {
+            "year": 2019,
+            "year_rank": 7
+        },
+        {
+            "year": 2020,
+            "year_rank": 5
+        },
+        {
+            "year": 2021,
+            "year_rank": 7
+        }
+    ]
+}

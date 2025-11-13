@@ -1,0 +1,10 @@
+pandas
+requests
+duckdb
+fastapi
+uvicorn
+streamlit
+plotly
+pydantic
+rapidfuzz
+python-dotenv
